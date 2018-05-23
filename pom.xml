@@ -42,7 +42,7 @@
       <artifactId>hsqldb</artifactId>
       <version>1.8.0.7</version>
     </dependency>
-    <!-- https://mvnrepository.com/artifact/junit/junit -->
+    <!-- https://mvnrepository.com/artifact/junit/junits -->
     <dependency>
     <groupId>junit</groupId>
     <artifactId>junit</artifactId>
