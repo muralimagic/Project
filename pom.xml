@@ -12,7 +12,7 @@
   <properties>
     <!--
      
-      Eplicitly declag e source codng the fng message: [WARNING] Using platform encoding
+      Eplicitly declage e source codng the fng message: [WARNING] Using platform encoding
       (UTF-8 actually) to copy filtered resources, i.e. build is platfor  dependents
     -->
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
